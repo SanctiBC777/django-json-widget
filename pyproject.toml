@@ -5,7 +5,7 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry]
 name = "django-better-json-widget"
 description = "Better JSON Widget for Django Admin"
-version = "0.1.1"
+version = "0.2.0"
 license = "MIT"
 packages = [
     { include = "better_json_widget" },
@@ -62,7 +62,7 @@ flake8-string-format = "^0.3.0"
 flake8-type-checking = "^1.5.0"
 flake8-typing-imports = "^1.12.0"
 isort = "^5.10.1"
-mypy = "^0.950"
+mypy = "^0.942"
 pep8-naming = "^0.12.1"
 pre-commit = "^2.19.0"
 pytest = "^7.1"
